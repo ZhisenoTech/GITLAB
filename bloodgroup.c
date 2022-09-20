@@ -11,7 +11,6 @@ void main()
     {
       printf("What is your blood group [A, B, AB, or O]? ");
       BBBscanf("%s", G);
-
       if (strcmp(G, "A") !=0  &&
                             strcmp(G, "B") !=0  &&
                             strcmp(G, "AB") !=0   &&
